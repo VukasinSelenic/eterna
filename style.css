@@ -81,8 +81,8 @@ section .col-lg-4:hover {
 }
 
 section {
-    margin-top: 150px;
-    margin-bottom: 50px;
+    padding-top: 100px;
+    padding-bottom: 50px;
 }
 
 #about h3 {
@@ -107,8 +107,10 @@ section {
     padding: 0;
     
 }
+#about {
+    padding-top: 100px;
 #team {
-    margin-top: 100px;
+    padding-top: 100px;
 }
 #team img {
     border-radius: 50%;
@@ -164,7 +166,7 @@ section {
 .blog {
     background-image: url(img/slide-3.jpg);
     background-size: cover;
-    margin-top: 50px;
+    padding-top: 50px;
 }
 .blog h2 {
     padding-top: 70px;
@@ -181,7 +183,7 @@ section {
     color: #000;
 }
 #pricing {
-    margin-top: 60px;
+    padding-top: 100px;
 }
 #pricing i {
     font-size: 46px;
@@ -246,7 +248,7 @@ section {
     color: #e96b56;
 }
 #contact {
-    margin-top: 100px;
+    padding-top: 100px;
     
 }
 footer ul {
@@ -270,7 +272,7 @@ footer {
     background: #404040;
     color: #fff;
     padding: 20px;
-    margin-top: 50px;
+    padding-top: 50px;
 }
 footer h3 {
     font-weight: 700;
